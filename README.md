@@ -1,5 +1,5 @@
-<h1 align="center">Agent权限逢多必考</h1>
-Agent权限分层管理，逢多必考，定期评审
+<h1 align="center">计算化Agent治理系统</h1>
+Computational Governance，通过agent能力评级，操作权限高维投影，消息网事件驱动，实现自驱动的Agent能力分层治理，并主动清退Agent网络内的低能力Agent，保持Agent网络能力高可靠，持续交付。
 
 # 1. 设计目标
 
