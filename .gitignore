@@ -1,0 +1,21 @@
+# Generated / non-code files
+uv.lock
+.python-version
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables
+.env
+.env.*
